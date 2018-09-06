@@ -1,7 +1,7 @@
 # JDD-SalesPredictionChallenge
 JDD-Cup-2017-SessionA.   
-An open source baseline, but it is not a good way to deal with this compition.    
-If you have any problem, send them to my Email: cs_xcy@126.com   
+My open source baseline, it is not a completed code to address this problem well but a sample framework for beginner.    
+If you have any problems, send them to my Email: cs_xcy@126.com   
 **best online score by this code: 0.4804**
 
 ### static_*.py:
